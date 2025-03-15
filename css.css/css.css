@@ -32,25 +32,6 @@ nav{
 
 
 }
-.section-title{
-    font-weight: bold;
-    font-size: 35px;
-    color: #181818;
-}
-.section-description{
-    font-size: 18px;
-    color: #757575;
-
-
-}
-main{
-    max-width: 1140px;
-    margin: 0 auto;
-    
-}
-.main-background-color{
-    background-color: #FFF8F3;
-}
 .nav-title{
     font-weight: 800;
     font-size: 45px;
@@ -74,7 +55,8 @@ nav ul{
     color: #474747;
 }
 .dev{
-    background-image: url("");
+    background-image: url(../css.css/css.css/
+    );
 }
 .banner-greeting{
     font-size: 45px;
@@ -99,45 +81,4 @@ nav ul{
     display: flex;
     justify-content: space-between;
     margin: 0 30px 0 230px;
-}
-.about{
-    padding: 130px 150px;
-    border-radius: 10px;
-    text-align: center;
-    margin-top: 130px;
-
-}
-.about-items{
-    text-align: center;
-    display: flex;
-    justify-content:space-around;
-}
-.about-description{
-    font-weight: bold;
-    font-size: 20px;
-
-}
-.section-title{
-    font-weight: bold;
-    font-size: 35px;
-    text-align: center;
-    margin-top: 130px;
-
-
-}
-.section-description{
-    font-size: 18px;
-    text-align: center;
-    margin-top: 30px;
-
-}
-.skill-container{
-    display: flex;
-    gap: 24px;
-
-}
-.skill{
-    padding: 30px;
-    box-shadow: 0px 6px 50px 0px black;
-    border-radius: 5px;
 }
